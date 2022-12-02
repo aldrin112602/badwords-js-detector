@@ -1,0 +1,20 @@
+{
+  "name": "badwords-js-detector",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "badwordsJS",
+    "Bad Words Detector",
+    "Bad words filter",
+    "badwords",
+    "badwords-detector",
+    "badwords-filter",
+    "badwords-filterer"
+  ],
+  "author": "Caballero, Aldrin E",
+  "license": "ISC"
+}
