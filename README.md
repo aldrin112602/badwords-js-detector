@@ -20,6 +20,9 @@ const badwords = new Detector();
 // ESM
 import { Detector } from 'badwords-js-detector';
 const badwords = new Detector();
+
+// CDN
+const badwords = new Detector();
 ```
 
 ### Usage:
