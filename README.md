@@ -2,9 +2,15 @@
 The badwords-js-detector library exported as Node.js modules.
 
 ## Installation
-Using npm:\
-`$ npm i badwords-js-detector`
+Using npm:
+```bash
+$ npm i badwords-js-detector
+```
 
+Using CDN:
+```html
+<script src="https://cdn.jsdelivr.net/gh/aldrin112602/badwords-js-detector/badwords-js-detector.js"></script>
+```
 ### Importing:
 ```javascript
 // CJS
